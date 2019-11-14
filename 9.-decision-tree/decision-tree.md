@@ -1,5 +1,7 @@
 # Decision Tree
 
+**The formula format is better in** [**this article**](https://hackmd.io/@iyutpo/S1Qa21-tr)**. Both are the same in content.**
+
 ## Additive Models and Tree-based Models
 
 ### 1.1 Generalized Additive Models
